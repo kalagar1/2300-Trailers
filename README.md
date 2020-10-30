@@ -5,7 +5,7 @@
 
 # 2300Trailers
 
-2300Trailers allows users to view and favorite a wide variety of movies trailers. It also allows an admin to perform CRUD operations on the movies database.
+2300Trailers allows users to view and favorite a wide variety of movies trailers. It also allows an admin to perform CRUD operations on the movies database. Note that the project is only optimized for Chrome and Firefox.
 
 The project is currently hosted live on <a href="https://secret-oasis-19816.herokuapp.com/index.php">Heroku.</a>
 
